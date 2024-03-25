@@ -26,4 +26,4 @@ Repository for student projects and assignments
 10. [Lab 10](https://github.com/kirankumareranki/AIML-2023/blob/main/Lab10-KMeans.ipynb)
     
 # AIML Project Topics 
-[AIML Project Topics](https://github.com/kirankumareranki/AIML-2023/blob/main/projects.html)
+[AIML Project Topics](https://github.com/kirankumareranki/AIML-2023/blob/main/projects.pdf)
